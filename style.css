@@ -10,5 +10,7 @@ body {
 }
 
 button {
-    backgroud-color: #64A712
+    background-color: #64A712
+    color: white;
+     font-family: "Open Sans", sans-serif;
 }
